@@ -2,7 +2,7 @@
 ![API Testing](https://img.shields.io/badge/API-Testing-blue)
 ![License: MIT](https://img.shields.io/badge/License-MIT-green)
 
-# Postman API Testing Demo 🚀
+# Postman API Testing 🚀
 
 This repository contains my Postman collection with 4 APIs, demonstrating API testing skills.
 
