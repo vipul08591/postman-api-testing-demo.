@@ -10,7 +10,7 @@ This repository contains my Postman collection with 4 APIs, demonstrating API te
 - `my-collection.json` → Postman collection (v2.1 format)
 
 ## 🚀 How to Use
-1. Download or clone this repository.
+1. Download.
 2. Open **Postman** → Import → Select `my-collection.json`.
 3. Run the requests or use the **Collection Runner**.
 
